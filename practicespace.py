@@ -39,3 +39,15 @@ weeks_in_a_decade = years * weeks_in_a_year
 # Prints the calculation stored in the "weeks_in_a_decade" variable:
 print(weeks_in_a_decade)
 
+def to_celsius(x):
+   '''Convert Fahrenheit to Celsius'''
+   return (x-32) * 5/9
+to_celsius(75)
+
+number = -4
+if number > 0:
+   print('Number is positive.')
+elif number == 0:
+   print('Number is zero.')
+else:
+   print('Number is negative.')

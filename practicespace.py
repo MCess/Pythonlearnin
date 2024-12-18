@@ -60,3 +60,13 @@ height = 3
 area = (base*height)/2
 print("The area of the triangle is: " + str(area)) 
 
+total = 2048 + ___ + ___ + ___ + ___
+files = ___
+average = total / files
+print("___" + str(___))
+
+total = 2048 + 97658 + 4357 + 125 + 8
+files = 5
+average = total / files
+print("The average size is:" + str(average))
+
